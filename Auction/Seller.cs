@@ -12,3 +12,13 @@ namespace Auction
         { }
     }
 }
+
+/*
+    show items
+        categories: Auctioned, ForAuction, ForReview, Rejected
+
+    show AuctionedHistory
+        //based on Item status(?) sold:pending;
+    
+    
+*/

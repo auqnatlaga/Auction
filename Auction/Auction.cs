@@ -39,3 +39,28 @@ namespace Auction
 
     }
 }
+
+/*Auction
+
+public string highestBidder()
+    {
+        if(currentOffer != Item.BasePrice)
+            return null;
+        else
+            return dictionaryName.MaxBy(x=>x.value).key;
+
+    }   
+
+public double setMinIncrease(int currentOffer)
+{
+return MinIncrease = CurrentOffer + MinIncrease;
+}
+
+public string IsAwardedTo()
+{   
+    if(!isBiddingPhase)
+        return dictionary.MaxBy(x=>x.value).key; //highestbidder method
+    else
+        null;
+}
+*/

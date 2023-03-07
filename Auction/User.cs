@@ -23,3 +23,10 @@ namespace Auction
 
     }
 }
+
+/*
+create login info
+
+
+
+*/
